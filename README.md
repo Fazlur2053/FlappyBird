@@ -1,1 +1,1 @@
-# FlappyBird
+This code is a simple implementation of the "Flappy Bird" game using Java and the Swing library for graphical user interface (GUI). The game involves moving a bird through obstacles (pipes) by pressing the spacebar to jump, avoiding collisions, and keeping track of the score.
